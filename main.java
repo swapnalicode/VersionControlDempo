@@ -11,6 +11,7 @@ public class Main {
         int b = sc.nextInt();
 
         int sum = a + b;
+        c=sum
 
         System.out.println("Sum = " + sum);
 
