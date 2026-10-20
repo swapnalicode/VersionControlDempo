@@ -10,6 +10,10 @@ public class Main {
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
 
+         System.out.print("Enter first number: ");
+        int c = sc.nextInt();
+
+
         int sum = a + b;
         c=sum
 
